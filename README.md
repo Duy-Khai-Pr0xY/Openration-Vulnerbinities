@@ -20,3 +20,4 @@
 #### Quyền
 #### Outdate
 #### Ứng dụng trên server không có sự tách biệt
+# Sử dụng tools git dumber để tự động đọc file .git
