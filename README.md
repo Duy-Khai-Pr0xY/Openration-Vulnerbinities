@@ -16,3 +16,7 @@
 #### Mở ra những service,port không cần thiết 
 #### Quên gỡ file content,test(/test, .git, README.MD, error log, debug log,.....)
 #### Thiếu cơ chế bảo vệ (rate-limiting, encryption, fillwall,...)
+#### Lỗi cấu hình Support
+#### Quyền
+#### Outdate
+#### Ứng dụng trên server không có sự tách biệt
