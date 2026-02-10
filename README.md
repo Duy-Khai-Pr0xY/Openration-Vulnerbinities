@@ -15,3 +15,4 @@
 #### username, password phổ biến quên đổi 
 #### Mở ra những service,port không cần thiết 
 #### Quên gỡ file content,test(/test, .git, README.MD, error log, debug log,.....)
+#### Thiếu cơ chế bảo vệ (rate-limiting, encryption, fillwall,...)
