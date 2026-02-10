@@ -10,3 +10,7 @@
 #### Giảm chi phí
 #### Phản ứng với sự cố nhanh hơn
 #### Không phải bulletproof,.....
+# Các lỗi thường gặp trong quá trình deploy
+#### Khi cấu hình ứng dụng và cấu hình môi trường
+#### username, password phổ biến quên đổi 
+#### Mở ra những service,port không cần thiết 
