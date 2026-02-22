@@ -21,3 +21,4 @@
 #### Outdate
 #### Ứng dụng trên server không có sự tách biệt
 # Sử dụng tools git dumber để tự động đọc file .git
+# Sử dụng keyhacks githubs để check xem cái key đấy có còn hạn sử dụng hay không
